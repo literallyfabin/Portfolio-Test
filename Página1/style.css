@@ -1,0 +1,17 @@
+*{
+    margin:
+}
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+  }
+
+body{
+    background-color: var(--body-bg-color);
+    width: 100vh;
+    height: 100hv;
+}
+main > article#img{
+    display: flex;
+    flex-direction: column;
+}
