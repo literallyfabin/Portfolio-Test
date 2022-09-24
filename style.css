@@ -10,7 +10,7 @@ body{
     background-color: var(--body-bg-color);
     width: 100vh;
     height: 100hv;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 main{
     overflow: hidden;
